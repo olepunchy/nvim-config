@@ -1,0 +1,7 @@
+autoload/
+node_modules/
+plugged/
+sesion/
+*.log
+*.bak
+*.json
